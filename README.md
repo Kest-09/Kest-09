@@ -1,13 +1,12 @@
 <p align="center">
-  <img src="images/emojis/observing-droid.gif" alt="" width="80" height="80"/>
+  <img src="images/emojis/observing-droid.gif" alt="" width="120" height="120"/>
 </p>
-
-<h2 align="center"><b>Hello</b></h2>
 
 <p align="center">
   I don't know what to write here.
 <p><br>
 
+>My project
 <table>
   <tr>
     <td><img alt="" src="images/screenshot/blank.png"></td>
